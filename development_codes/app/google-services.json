@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892621834016",
+    "project_id": "smart-vending-machine-9592f",
+    "storage_bucket": "smart-vending-machine-9592f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892621834016:android:fdf82360dfb132a588b945",
+        "android_client_info": {
+          "package_name": "com.example.smartvendingmachine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892621834016-roc1e09omlr5cuarm44rtoul0uvjqeer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtM9M3-FqGRXZ0jn6IZbImgg2bWXxXGZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892621834016-roc1e09omlr5cuarm44rtoul0uvjqeer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
